@@ -122,3 +122,9 @@ body{
     gap: 100px;
     align-items: center;
 }
+@media (max-width : 950px){
+    html,body{
+        width: 100%;
+        height: 100%;
+    }
+}
